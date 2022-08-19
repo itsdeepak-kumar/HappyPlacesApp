@@ -13,8 +13,8 @@ Kotlin, XML, RoomDatabase, GoogleMap/Place API, Dexter
 ## Activites
 <table>
   <tr>
-    <td>Main Activity</td>
-    <td>BMI Activity</td>
+    <td>GoogleMap Activity</td>
+    <td>Info Activity</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/64521665/185572753-df0b566d-f9bf-4b2c-a4ee-b680227af16e.jpg" width=270 height=480></td>
@@ -24,8 +24,8 @@ Kotlin, XML, RoomDatabase, GoogleMap/Place API, Dexter
  
  <table>
   <tr>
-    <td>Exercise Activity</td>
-    <td>History Activity</td>
+    <td>HappyPlace List</td>
+    <td>AddPlace Activity</td>
   </tr>
   <tr>
     <td><img src="https://user-images.githubusercontent.com/64521665/185572728-287e4384-37ad-45af-b4b9-9463ff41e6d4.jpg" width=270 height=480></td>
